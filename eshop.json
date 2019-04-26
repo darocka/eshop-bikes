@@ -5,6 +5,10 @@
 			"name": "Bobber Black",
 			"amount": "13990"
 		},
-		{}
+		{
+			"image": "https://cdn.jsdelivr.net/gh/darocka/eshop-bikes@8381f36f7597f1ebf074dd06d100b81ef841918f/images/MY17Bobber_morello_red_CGI_RHS-1920x1080.png",
+			"name": "Bobber - Morello ",
+			"amount": "13990"
+		}
 	]
 }
