@@ -2,12 +2,7 @@
 	"product": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/darocka/eshop-bikes@f98f3ac2cdc391299367db3bb552b2019705a43e/images/DV-RHS-Khaki-Green-Base-1920x1080.png",
-			"name": "Bobber Black",
-			"amount": "13990"
-		},
-		{
-			"image": "https://cdn.jsdelivr.net/gh/darocka/eshop-bikes@8381f36f7597f1ebf074dd06d100b81ef841918f/images/MY17Bobber_morello_red_CGI_RHS-1920x1080.png",
-			"name": "Bobber - Morello ",
+			"name": "Bobber Khaki",
 			"amount": "13990"
 		}
 	]
